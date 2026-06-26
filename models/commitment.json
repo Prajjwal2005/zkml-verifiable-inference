@@ -1,0 +1,6 @@
+{
+  "model_hash_sha256": "828372c43c1a4e6dc30c636037856a0beedafdba2eb185b86bb69bfa963ce753",
+  "total_parameters": 4266,
+  "hash_algorithm": "SHA-256",
+  "note": "In the ZKP circuit, Poseidon hash is used instead for efficiency"
+}

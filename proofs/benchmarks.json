@@ -1,0 +1,14 @@
+{
+  "settings_sec": 0.09,
+  "calibrate_sec": 1.51,
+  "compile_sec": 0.0,
+  "srs_sec": 0.01,
+  "setup_sec": 2.74,
+  "witness_sec": 0.1,
+  "proving_sec": 2.05,
+  "proof_size_kb": 127.52,
+  "verification_ms": 24.92,
+  "verified": true,
+  "pk_size_mb": 264.13,
+  "vk_size_kb": 129.26
+}

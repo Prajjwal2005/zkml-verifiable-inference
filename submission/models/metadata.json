@@ -1,0 +1,9 @@
+{
+  "total_params": 4266,
+  "test_accuracy": 96.95,
+  "training_time_seconds": 31.1,
+  "test_label": 7,
+  "model_prediction": 7,
+  "onnx_path": "models\\mnist_cnn.onnx",
+  "input_json_path": "models\\test_input.json"
+}
